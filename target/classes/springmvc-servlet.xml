@@ -8,4 +8,8 @@
 
 	<bean name="/product_save.action" class="com.qetch.springmvc.controller.SaveProductController" />
 
+	<!-- <bean class="org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter"/>
+
+	<bean class="org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter"/> -->
+	
 </beans>
